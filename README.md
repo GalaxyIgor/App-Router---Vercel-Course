@@ -12,7 +12,7 @@ Cada capítulo é uma **cópia independente** do projeto que continua de onde o 
 | 2 | `Chapter 2 CSS Styling` | Estilização com Tailwind e CSS Modules | ✅ |
 | 3 | `Chapter 3 Optimizing Fonts and Images` | Otimização de fontes (`next/font`) e imagens (`next/image`) | ✅ |
 | 4 | `Chapter 4 Creating Layouts and Pages` | Layouts, páginas e rotas aninhadas | ✅ |
-| 5 | `Chapter 5 Navigating Between Pages` | Navegação com `<Link>` e prefetching | ⬜ |
+| 5 | `Chapter 5 Navigating Between Pages` | Navegação com `<Link>` e prefetching | ✅ |
 | 6 | `Chapter 6 Setting Up Your Database` | Configuração do banco de dados (Postgres) | ⬜ |
 | 7 | `Chapter 7 Fetching Data` | Busca de dados com Server Components | ⬜ |
 | 8 | `Chapter 8 Static and Dynamic Rendering` | Renderização estática vs. dinâmica | ⬜ |
